@@ -11,7 +11,7 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 🔧TOOLS
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,github,git,npm,vite)](https://skillicons.dev)
 
 ## 🗂️PROJECT
 | No | Project Name | Stack | Type | Link |
