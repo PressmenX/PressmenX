@@ -7,7 +7,7 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
 - AI Interaction: Basic prompting
 - Version Control: Git & GitHub.
 - Build Tools : NPM, Vite
-- 
+  
 ## 📚STACK
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
