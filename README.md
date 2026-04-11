@@ -3,7 +3,7 @@
 Hello world! I'm a 16-year-old high school student. I'm currently learning to create technological innovations through **programming and AI**. I will continue to develop and adapt to **technology itself**.
 
 🛠️ Skill
-- Languages: JavaScript (ES6+), HTML5, CSS3.
+- Languages: JavaScript (ES6+), HTML5, CSS3, TailwindCSS, ReactJS.
 - AI Interaction: Basic prompting
 - Version Control: Git & GitHub.
 - Build Tools : NPM, Vite
