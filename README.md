@@ -9,7 +9,7 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
 - Build Tools : NPM, Vite
   
 ## 📚STACK
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)
 
 ## 🔧TOOLS
 [![My Tools](https://skillicons.dev/icons?i=vscode,github,git,npm,vite)](https://skillicons.dev)
