@@ -27,6 +27,12 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
   </thead>
   <tbody>
     <tr>
+      <td>⛅ <b>Dynamic Weather App</b></td>
+      <td><code>HTML5</code> <code>TailwindCSS</code> <code>React</code> <code>Vite</code></td>
+      <td>Dynamic Background, Dark Mode, Search Input, Farenheit Toggle.</td>
+      <td><a href="https://dynamic-weather-app-ten.vercel.app/">Demo</a> | <a href="https://github.com/PressmenX/dynamic-weather-app">Repo</a></td>
+    </tr>
+    <tr>
       <td>💻 <b>ThinkTerrace E-Commerce</b></td>
       <td><code>HTML5</code> <code>CSS3</code> <code>JS (ES6)</code> <code>Vite</code></td>
       <td>Modern UI/UX, Shopping Cart & Cart Drawer, Filtering & Sorting Product.</td>
