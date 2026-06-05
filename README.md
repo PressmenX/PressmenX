@@ -4,7 +4,8 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
 
 🛠️ Skill
 - Languages: JavaScript (ES6+), HTML5, CSS3.
-- Framework/Library : TailwindCSS, ReactJS, TypeScript
+- Frontend Stack : TailwindCSS, ReactJS, TypeScript
+- Backend Stack : ExpressJS
 - AI Interaction: Basic prompting
 - Version Control: Git & GitHub.
 - Build Tools : NPM, Vite
