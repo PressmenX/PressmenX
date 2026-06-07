@@ -53,10 +53,10 @@ Hello world! I'm a 16-year-old high school student. I'm currently learning to cr
       <td><a href="https://pressmenx.github.io/Report-Generator/">Demo</a> | <a href="https://github.com/PressmenX/Report-Generator">Repo</a></td>
     </tr>
     <tr>
-      <td>✅ <b>Interactive Task Manager</b></td>
-      <td><code>Vite</code> <code>NPM</code> <code>JS (ES6)</code></td>
-      <td>Dynamic Progress bar, Add/Delete Task, Modern UI.</td>
-      <td><a href="https://pressmenx.github.io/Interactive-Task-Manager/">Demo</a> | <a href="https://github.com/PressmenX/Interactive-Task-Manager">Repo</a></td>
+      <td>👥 <b>RESTful User & Product Clean Arch</b></td>
+      <td><code>NodeJS</code> <code>TypeScript</code> <code>ExpressJS</code></td>
+      <td> User & Product CRUD, User Authentication, Interactive API Docs, Graceful Shutdown.</td>
+      <td><a href="https://github.com/PressmenX/restful-user-product-clean-arch">Repo</a></td>
     </tr>
   </tbody>
 </table>
