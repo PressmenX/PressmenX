@@ -2,19 +2,32 @@
 
 Hello world! I'm a 16-year-old high school student. I'm currently learning to create technological innovations through **programming and AI**. I will continue to develop and adapt to **technology itself**.
 
-🛠️ Skill
-- Languages: JavaScript (ES6+), HTML5, CSS3.
-- Frontend Stack : TailwindCSS, ReactJS, TypeScript
-- Backend Stack : NodeJS, ExpressJS, NestJS
-- AI Interaction: Basic prompting
-- Version Control: Git & GitHub.
-- Build Tools : NPM, Vite
-  
-## 📚STACK
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nodejs,expressjs,nestjs)](https://skillicons.dev)
+## 🛠️ Technical Skills
 
-## 🔧TOOLS
-[![My Tools](https://skillicons.dev/icons?i=vscode,github,git,vite)](https://skillicons.dev)
+### 💻 Frontend Development
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** ReactJS, TailwindCSS
+- **Build Tools:** Vite, NPM
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,vite)](https://skillicons.dev)
+
+---
+
+### ⚙️ Backend & Database
+- **Frameworks:** NodeJS, ExpressJS, NestJS
+- **ORM & Database:** Prisma, PostgreSQL
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres)](https://skillicons.dev)
+
+---
+
+### 🔧 Tools & Version Control
+- **Version Control:** Git, GitHub
+- **Editor:** VS Code
+- **AI Interaction:** Basic Prompting
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
 ## 🗂️ TOP 5 PROJECT
 
